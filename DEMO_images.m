@@ -14,7 +14,7 @@ cd(fold);
 
 %% Load raw images
 
-folder_path = './DATASETS_ECCV20/';
+folder_path = './ECCV20_DATA/';
 dataset='STUFFED_ANIMALS4';
 
 img_path =[folder_path dataset '/']; format_img='jpg';
