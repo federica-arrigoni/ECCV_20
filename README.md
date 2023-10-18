@@ -7,4 +7,4 @@ In order to run the code on raw images, the following packages are needed:
 - RPA https://fusiello.github.io/demo/rpa/index.html
 - VLFeat http://www.vlfeat.org/
 
-Contact: Federica Arrigoni, Czech Technical University in Prague, Federica.Arrigoni@cvut.cz
+Contact: Federica Arrigoni, Politecnico di Milano, federica.arrigoni@polimi.it
