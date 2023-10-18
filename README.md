@@ -1,5 +1,4 @@
-# ECCV_20
-Federica Arrigoni, Luca Magri and Tomas Pajdla. On the usage of the trifocal tensor in motion segmentation. ECCV 2020 
+# Federica Arrigoni, Luca Magri and Tomas Pajdla. On the usage of the trifocal tensor in motion segmentation. ECCV 2020 
 
 The Matlabe code contains two demo scripts:
 - DEMO_images: to run the method on raw images, including feature extraction and matching
